@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "DataWalkthrough"
 output: learnr::tutorial
 runtime: shiny_prerendered
 ---
